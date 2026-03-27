@@ -1,0 +1,63 @@
+{
+  "tema": "oscuro",
+  "acordeonVentas": false,
+  "nombre": "SALOMÉ TAROT",
+  "profesion": "La Princesa De Oriente",
+  "banner": "https://i.ibb.co/60DryF60/eec86386873eebe0351decb7552aa97e.jpg",
+  "perfil": "https://i.ibb.co/wFBdx7tt/AQP5om-BHb2-F1uok-K0-ILj-CNmyyqf-Ax-Oe-Vqyxwpfnkj1c11wp-Lo-Cdcs-HSr-W896-Um75jo-Ns-pj-Hh88-IB6-Xc-D8-Zs-LE.jpg",
+  "url_fondo": "https://i.ibb.co/zWtHjdnw/1a10089d243b4afed732b72e1e28242a.jpg",
+  "yt_gancho": "",
+  "mainColor": "#9c2293",
+  "html_head": "",
+  "html_body_open": "",
+  "html_body_close": "",
+  "wsp": "https://wa.me/5493764263698",
+  "call": "+543764263698",
+  "mapa": "",
+  "email_cli": "oraculo.sensorial.ai@gmail.com",
+  "rs_wsp": "https://wa.me/5493764263698 ",
+  "rs_instagram": "",
+  "rs_facebook": "",
+  "rs_youtube": "",
+  "rs_twitter": "",
+  "rs_tiktok": "",
+  "rs_linkedin": "",
+  "cta_link": "https://portaldigitalsoft.github.io/Busio_Oraculo_16-oddu/",
+  "cta_txt": "BUSIOS ",
+  "cat": "https://ibb.co/BVTZN5CW",
+  "mp": "",
+  "email_id": "oraculo.sensorial.ai@gmail.com",
+  "pdf_url": "https://drive.google.com/file/d/1GxjIEgsZ5TH7Ih83CVjsZ49JRPsxrVk8/view?usp=drivesdk",
+  "modulos": [
+    {
+      "visible": true,
+      "acordeon": true,
+      "tit": "SOLICITA CURSO TAROT EN PDF",
+      "imgs": "https://i.ibb.co/R4kPnJjw/1774208707708.png",
+      "yt": "",
+      "desc": "Más de 100 PDF Libros, videos con todos los Secretos y formulas para aprender si o si, muy accesible, se entrega rápido a tú WhatsApp.",
+      "btn_txt": "PEDI INFO",
+      "btn_link": "https://wa.link/cw4gq8"
+    },
+    {
+      "visible": true,
+      "acordeon": true,
+      "tit": "TAROT ",
+      "imgs": "",
+      "yt": "https://youtube.com/shorts/bF4kjrRpOJM?si=hX4ts-EpGjUKF8fe",
+      "desc": "único curso con videos, libros, tarot para imprimir. ",
+      "btn_txt": "PEDIR CURSO",
+      "btn_link": "https://wa.link/cw4gq8"
+    },
+    {
+      "visible": true,
+      "acordeon": false,
+      "tit": "CARTA NATAL ",
+      "imgs": "",
+      "yt": "",
+      "desc": "",
+      "btn_txt": "SOLICITA TU CARTA NATAL ",
+      "btn_link": "https://portaldigitalsoft.github.io/Carta_Natal_Salome/"
+    }
+  ]
+}
